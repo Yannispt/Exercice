@@ -1,5 +1,5 @@
 ﻿  ConsoleApplication10.cpp
-c:\users\yd dupont\desktop\tp2\consoleapplication10\consoleapplication10\consoleapplication10.cpp(8): warning C4101: 'a' : variable locale non référencée
-c:\users\yd dupont\desktop\tp2\consoleapplication10\consoleapplication10\consoleapplication10.cpp(8): warning C4101: 'b' : variable locale non référencée
-c:\users\yd dupont\desktop\tp2\consoleapplication10\consoleapplication10\consoleapplication10.cpp(8): warning C4101: 'c' : variable locale non référencée
-  ConsoleApplication10.vcxproj -> C:\Users\YD Dupont\Desktop\tp2\ConsoleApplication10\x64\Debug\ConsoleApplication10.exe
+c:\users\yd dupont\desktop\tp2\consoleapplication10\consoleapplication10\consoleapplication10.cpp(20): error C2001: saut de ligne dans la constante
+c:\users\yd dupont\desktop\tp2\consoleapplication10\consoleapplication10\consoleapplication10.cpp(20): error C2143: erreur de syntaxe : absence de ')' avant 'chaîne'
+c:\users\yd dupont\desktop\tp2\consoleapplication10\consoleapplication10\consoleapplication10.cpp(20): error C2143: erreur de syntaxe : absence de ';' avant 'chaîne'
+c:\users\yd dupont\desktop\tp2\consoleapplication10\consoleapplication10\consoleapplication10.cpp(21): error C2143: erreur de syntaxe : absence de ';' avant '}'
