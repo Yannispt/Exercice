@@ -1,5 +1,0 @@
-﻿  ConsoleApplication10.cpp
-c:\users\yd dupont\desktop\tp2\consoleapplication10\consoleapplication10\consoleapplication10.cpp(20): error C2001: saut de ligne dans la constante
-c:\users\yd dupont\desktop\tp2\consoleapplication10\consoleapplication10\consoleapplication10.cpp(20): error C2143: erreur de syntaxe : absence de ')' avant 'chaîne'
-c:\users\yd dupont\desktop\tp2\consoleapplication10\consoleapplication10\consoleapplication10.cpp(20): error C2143: erreur de syntaxe : absence de ';' avant 'chaîne'
-c:\users\yd dupont\desktop\tp2\consoleapplication10\consoleapplication10\consoleapplication10.cpp(21): error C2143: erreur de syntaxe : absence de ';' avant '}'
